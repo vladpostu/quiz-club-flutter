@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/overdose/Desktop/tpsit-21-22/quiz_club/build/google_sign_in_android/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/overdose/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/overdose/Desktop/tpsit-21-22/quiz_club/build/google_sign_in_android/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/overdose/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/overdose/Desktop/tpsit-21-22/quiz_club/build/google_sign_in_android/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/overdose/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/overdose/Desktop/tpsit-21-22/quiz_club/build/google_sign_in_android/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/overdose/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/overdose/Desktop/tpsit-21-22/quiz_club/build/google_sign_in_android/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/overdose/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/overdose/Desktop/tpsit-21-22/quiz_club/build/google_sign_in_android/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/overdose/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_action.xml"
+    }
+]

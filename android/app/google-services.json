@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647259730865",
+    "project_id": "quiz-club-6a1fc",
+    "storage_bucket": "quiz-club-6a1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647259730865:android:06a404e2024582ed7fc390",
+        "android_client_info": {
+          "package_name": "com.example.quiz_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647259730865-h9amc9f44sbqjgl99a8g76s7bijr4ntu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzusiWnaHQ-K4L0G3Fz2epBSrKyc8r_v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647259730865-h9amc9f44sbqjgl99a8g76s7bijr4ntu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

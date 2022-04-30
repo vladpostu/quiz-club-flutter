@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "test",
+      "selected_team": "First Team"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "First Team",
+      "points": 6
+    },
+    {
+      "id": 2,
+      "name": "Second Team",
+      "points": 66
+    }
+  ],
+  "current_questions": []
+}
